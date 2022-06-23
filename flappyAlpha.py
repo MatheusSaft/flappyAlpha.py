@@ -1,6 +1,6 @@
 import pygame, random
 from pygame.locals import *
-#Matheus Viner Fabiano
+#Commit dos infernooooooooo
 LarguraTela = 400
 AlturaTela = 800
 velocidade = 10
